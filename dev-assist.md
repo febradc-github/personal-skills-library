@@ -1,6 +1,6 @@
 ---
 name: dev-assist
-description: A adaptive developer assistant skill for coding and technical tasks. Use this skill whenever
+description: A adaptive developer assistant skill for coding and technical tasks. Use this skill whenever 
   the user is a developer asking for help with: debugging & root cause analysis, code review &
   refactoring, writing new features or boilerplate, or architecture & system design — across
   ANY language or framework. Trigger this skill even if the request is vague (e.g., "help me
